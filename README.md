@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Verma</h1>
-<h3 align="center">Learning Data Science and a passionate Android Developer</h3>
+<h3 align="center">A passionate Android Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulverma41328&label=Profile%20views&color=0e75b6&style=flat" alt="rahulverma41328" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [machine learning](https://github.com/rahulverma41328/100-days-of-machine-learning)
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **Android Development**
 
 - 📝 I regularly write articles on [irahulhere.tech](irahulhere.tech)
 
-- 💬 Ask me about **android application dev, ML**
+- 💬 Ask me about **android application dev**
 
 - 📫 How to reach me **rahulverma41328@gmail.com**
 
