@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulverma41328" alt="rahulverma41328" /></a> </p>
 
-- 🔭 I’m currently working on [machine learning](https://github.com/rahulverma41328/100-days-of-machine-learning)
+- 🔭 I’m currently working on [Java Backend]
 
 - 🌱 I’m currently learning **Android Development**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **android application dev**
 
-- 📫 How to reach me **rahulverma41328@gmail.com**
+- 📫 How to reach me **rahulverma70149@gmail.com**
 
 - ⚡ Fun fact **I observe the things**
 
