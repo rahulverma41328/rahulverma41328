@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 📝 I regularly write articles on [irahulhere.tech](irahulhere.tech)
+- 📝 I regularly write articles on [buggotkilled.blogspot.com](buggotkilled.blogspot.com)
 
 - 💬 Ask me about **android application dev**
 
