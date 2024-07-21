@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [buggotkilled.blogspot.com](buggotkilled.blogspot.com)
 
-- 💬 Ask me about **android application dev**
+- 💬 Ask me about **programming**
 
 - 📫 How to reach me **rahulverma70149@gmail.com**
 
