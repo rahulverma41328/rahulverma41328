@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Verma</h1>
-<h3 align="center">A passionate Android and java developer</h3>
+<h3 align="center">A passionate Android and java developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulverma41328&label=Profile%20views&color=0e75b6&style=flat" alt="rahulverma41328" /> </p>
 
